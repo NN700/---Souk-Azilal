@@ -1,0 +1,24 @@
+{
+  "short_name": "سوق أزيلال",
+  "name": "سوق أزيلال | Souk Azilal Multi-Vendor E-Commerce",
+  "description": "منصة سوق أزيلال التجاري للخدمات والمنتجات المحلية - تصفح وشراء بدون إنترنت",
+  "icons": [
+    {
+      "src": "https://ui-avatars.com/api/?name=Souk+Azilal&background=f59e0b&color=ffffff&bold=true&size=192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://ui-avatars.com/api/?name=Souk+Azilal&background=f59e0b&color=ffffff&bold=true&size=512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./",
+  "background_color": "#0f172a",
+  "theme_color": "#f59e0b",
+  "display": "standalone",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "ar"
+}
